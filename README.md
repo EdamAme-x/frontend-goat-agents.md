@@ -1,2 +1,1 @@
-# -SAITUYO-AGENTS.MD
-Frontend Saituyo AGENTS.md
+# GOAT AGENTS.MD
